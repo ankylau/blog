@@ -1,14 +1,12 @@
 ---
-id: 2074
-title: 怎样制作一个光影纸雕
-date: 2020-04-21T19:37:14+08:00
 layout: post
-guid: https://anky.cc/?p=2074
-permalink: /how-to-make-a-paper-sculpture/
-hero: https://source.unsplash.com/collection/430471/
-overlay: red
+title: 怎样制作一个光影纸雕
 tags:
   - 模型
+hero: https://source.unsplash.com/collection/430471/
+overlay: red
+published: true
+
 ---
 > <span style="font-size: 10pt;">&#8220;此篇文章不是教程分享，只是展示我如何制作一个光影纸雕。&#8221;</span>
 
