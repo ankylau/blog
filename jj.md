@@ -8,6 +8,9 @@ published: true
 
 ## 树洞
 
+由于更换程序，树洞将无期限关闭留言功能，此页面仅此留念。
+{: .notice-success}
+
 <p style="text-align: center;"><audio src="https://music.163.com/song/media/outer/url?id=5392945.mp3" preload="preload" controls="controls"></audio></p>
 
 <p style="text-align: center;"><span id="runtime_span"></span>
