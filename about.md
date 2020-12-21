@@ -24,4 +24,12 @@ published: true
 宅但是又向往着外面的世界，97年的却有颗三岁的心。
 牙套boy, 不善于表达，其他的想到再说。
 
+<p style="text-align: center;"><span id="runtime_span">
+</span>
+<script type="text/javascript">function show_runtime(){window.setTimeout("show_runtime()",1000);X=new 
+Date("12/02/2019 08:48:00");
+Y=new Date();T=(Y.getTime()-X.getTime());M=24*60*60*1000;
+a=T/M;A=Math.floor(a);b=(a-A)*24;B=Math.floor(b);c=(b-B)*60;C=Math.floor((b-B)*60);D=Math.floor((c-C)*60);
+runtime_span.innerHTML="戴牙套的第: "+A+"天"+B+"小时"+C+"分"+D+"秒"}show_runtime();</script></p>
+
 </div>
