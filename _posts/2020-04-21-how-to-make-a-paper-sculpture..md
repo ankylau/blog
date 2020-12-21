@@ -4,7 +4,7 @@ title: 怎样制作一个光影纸雕
 tags:
   - 模型
 hero: https://source.unsplash.com/collection/430471/
-overlay: green
+overlay: red
 published: true
 
 ---
