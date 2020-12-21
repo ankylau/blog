@@ -2,13 +2,11 @@
 id: 2074
 title: 怎样制作一个光影纸雕
 date: 2020-04-21T19:37:14+08:00
-author: Anky
 layout: post
 guid: https://anky.cc/?p=2074
 permalink: /how-to-make-a-paper-sculpture/
-image: 'https://anky.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2020/04/1587460234-QQ20200421-170851%402x.jpg'
-categories:
-  - 日常分享
+hero: https://source.unsplash.com/collection/430471/
+overlay: red
 tags:
   - 模型
 ---
@@ -18,6 +16,9 @@ tags:
 这是我这几年来第一次自己动手做东西，我也是第一次做这种东西，在网上按照教程一步一步制作。  
 纸雕看起来很复杂，实际动手做起来也是比较复杂所以我选了一张相对简单且她很喜欢的一张图片来制作。  
 一开始发现纸雕这个东西确实有被惊艳到，实在是太漂亮了，而且看起来很复杂需要很长的时间和功夫才能雕刻出来，少则一般5-6小时，也有3-5天才能完成的。在网上了解了一番后，发现在淘宝上可以买到制作的材料甚至是成品，但都是一些固定的图案，没有办法自己设计。
+
+{: .lead}
+<!–-break-–>
 
 <figure id="attachment_2075" aria-describedby="caption-attachment-2075" style="width: 1280px" class="wp-caption alignnone"><img class="wp-image-2075 size-full" src="https://anky.oss-cn-shanghai.aliyuncs.com/wp-content/uploads/2020/04/1587457077-QQ20200421-161540%402x.jpg?x-oss-process=image/resize,m_fill,w_2560,h_1438#" alt="" width="1280" height="719" /><figcaption id="caption-attachment-2075" class="wp-caption-text">网上的纸雕成品</figcaption></figure>
 
