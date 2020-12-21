@@ -5,9 +5,9 @@ url                          : "https://ankylau.github.io" # the base hostname &
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : dactl
+  title                      : Anky
   description                  : >
-                               this should contain a proper description
+                               Design & Lifestyle
 
 # Layout configuration
   logo_path                  : "assets/img/dactl.svg" # path to logo file
@@ -26,13 +26,13 @@ blog:
 
 # Author info
 author:
-  fullname                  : Your Name
+  fullname                  : ankylau
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
-  youtube                   : youtube-user-name
-  stackoverflow             : stackoverflow-user-name
+  mail                      : ankylau@outlook.com # change to your e-mail address
+  #twitter                   : twitter-user-name
+  #github                    : github-user-name
+  #youtube                   : youtube-user-name
+  #stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
