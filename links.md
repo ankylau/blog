@@ -11,6 +11,9 @@ published: true
 
 ## 友情链接 
 
-[十年之约](https://www.foreverblog.cn/) [EMIN.INK](https://www.emin.ink/) [弋牧](http://emuia.com/) 
+[十年之约](https://www.foreverblog.cn/){:target="_blank"} 
+[EMIN.INK](https://www.emin.ink/){:target="_blank"} 
+[弋牧](http://emuia.com/){:target="_blank"} 
+
 
 </div>
