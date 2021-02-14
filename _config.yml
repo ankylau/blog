@@ -1,7 +1,7 @@
 # Base blog settings
-baseurl                      : "https://anky.cc" # the subpath of your site,                         # e.g. /blog/
+baseurl                      : "/" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://ankylau.github.io" # the base hostname & protocol for your site
+url                          : "https://anky.cc" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
